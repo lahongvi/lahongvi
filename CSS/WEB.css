@@ -1,0 +1,563 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #080808;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+}
+
+.menu header{
+    width: 100%;
+    height: 50px;
+    background-color: #080808;
+    position: relative;
+}
+.menu header h1{
+    color: #FF8C00;
+    position: absolute;
+    left: 50px;
+    line-height: 10px;
+}
+
+.menu header h5{
+    color:#FF8C00;
+    position: absolute;
+    top: 0px;
+    left: 550px;
+}
+
+.menuh li {
+    float: right;
+    margin-right: 50px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.menuh li a{
+    color: #FF8C00;
+    text-decoration: none;
+}
+
+.menuh li a:hover{
+    color: orangered;
+}
+
+
+
+
+
+.menun nav{
+    width: 100%;
+    height: 150px;
+    background-color: #181818;
+    position: relative;
+}
+
+
+.menun nav input{
+    border: orangered solid 3px;
+    width: 500px;
+    height: 30px;
+    border-radius: 20px ;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+}
+
+.menuna  li{
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+    display: inline-block;
+    height: 50px;
+}
+
+.menuna  li a{
+    text-decoration: none;
+    color: orange;
+    font-size: 25px;
+}
+
+.menuna li a:hover{
+    color: orangered;
+}   
+
+
+
+
+
+.menua article{
+    width: 100%;
+    height: 100px;
+    clear: both;
+   
+}
+
+.menua article img{
+    width: 100%;
+    min-height: 100px;
+    
+}
+
+
+
+.menuasi aside{
+    width: 100%;
+    height: 1400px;
+    position: relative;
+   
+}
+
+.menuasi aside h1{
+   color:orange;
+   position: absolute;
+    top: 500px;
+    left: 660px;
+}
+
+.menuasi aside  img{
+    float: left;
+    margin: 30px;
+    margin-top: 600px;
+    border: 1px solid black;
+    box-shadow: inset 0 5px 10px orangered;
+}
+
+.ten a{
+    font-size: 10px;
+    position: absolute;
+    top: 850px;
+    left: 35px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 870px;
+    left: 38px;
+    letter-spacing: 3px;
+    color: red;
+
+}
+.gia del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten1 a{
+    font-size: 10px;
+    position: absolute;
+    top: 850px;
+    left: 346px;
+    text-decoration: none;
+    color: orange;
+}
+
+
+.gia1 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 870px;
+    left: 353px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia1 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten2 a{
+    font-size: 10px;
+    position: absolute;
+    top: 850px;
+    left: 640px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia2 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 870px;
+    left: 650px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia2 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten3 a{
+    font-size: 10px;
+    position: absolute;
+    top: 850px;
+    left: 945px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia3 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 870px;
+    left: 955px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia3 del{
+    color: gray;
+    font-size: 17px;
+}
+
+.ten4 a{
+    font-size: 10px;
+    position: absolute;
+    top: 850px;
+    left: 1245px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia4 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 870px;
+    left: 1253px;
+    letter-spacing: 3px;
+    color: red;
+
+}
+
+.gia4 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.sanpham img:hover{
+    
+    box-shadow:  0 0 15px orangered;
+    font-size: 100px;
+}
+
+.sanpham2{
+    width: 100%;
+    height: 700px;
+}
+
+.sanpham2 div h1{
+    color: orange;
+    position: absolute;
+    right: 660px;
+    top: 950px;
+    
+}
+
+.sanpham2 div img{
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin: 5px;
+    margin-top: 190px;
+    margin-left: 100px;
+
+}
+
+.tensp a{
+    color:orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 185px;
+}
+
+.tensp1 a{
+    color: orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 630px;
+}
+
+.tensp2 a{
+    color: orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 1100px;
+}
+
+.sanpham2 img:hover{
+
+    box-shadow: 0 0 10px orangered;
+
+}
+
+
+.menuf footer{
+    width: 100%;
+    min-height: 350px;
+    background-color:#202020;
+}
+
+.menuf h2{
+    font-size: larger;
+    color: orange;
+    position: absolute;
+    top: 1750px;
+    left: 50px;
+}
+
+.menuf h3{
+    font-size:larger ;
+    color: #FFD700;
+    position: absolute;
+    top: 1780px;
+    left: 50px;
+}
+
+
+.nd1 {
+    color: #606060;
+    position: absolute;
+    top: 1830px;
+    left: 50px;
+}
+
+
+.nd2 {
+    color: #606060;
+    position: absolute;
+    top: 1855px;
+    left: 50px;
+}
+
+.cn h2{
+    font-size:larger ;
+    color: #FFD700;
+    position: absolute;
+    top: 1865px;
+    left: 50px;
+}
+
+
+.nd3 {
+    color: #606060;
+    position: absolute;
+    top: 1908px;
+    left: 50px; 
+}
+
+.nd4{
+    color: #606060;
+    position: absolute;
+    top: 1930px;
+    left: 50px;  
+}
+
+
+.cn1 h2{
+    font-size:larger ;
+    color: #FFD700;
+    position: absolute;
+    top: 1950px;
+    left: 50px;
+}
+
+.nd5 {
+    color: #606060;
+    position: absolute;
+    top: 1990px;
+    left: 50px;
+}
+
+.nd6{
+    color: #606060;
+    position: absolute;
+    top: 2012px;
+    left: 50px;
+}
+
+.ht h2{
+    font-size: larger;
+    color:orange;
+    position: absolute;
+    top: 1750px;
+    left: 700px;
+}
+
+
+.ht1{
+    color: #606060;
+    position: absolute;
+    top: 1790px;
+    left: 650px; 
+}
+
+.ht2{
+    color: #606060;
+    position: absolute;
+    top: 1810px;
+    left: 650px; 
+}
+
+.ht3{
+    color: #606060;
+    position: absolute;
+    top: 1830px;
+    left: 650px; 
+}
+
+.ht4{
+    color: #606060;
+    position: absolute;
+    top: 1850px;
+    left: 650px; 
+}
+
+.ht5{
+    color: #606060;
+    position: absolute;
+    top: 1870px;
+    left: 650px; 
+}
+
+.ht6{
+    color: #606060;
+    position: absolute;
+    top: 1890px;
+    left: 650px; 
+}
+
+.ht7{
+    color: #606060;
+    position: absolute;
+    top: 1910px;
+    left: 650px; 
+}
+
+.ht8{
+    color: #606060;
+    position: absolute;
+    top: 1930px;
+    left: 650px; 
+}
+
+.ht9{
+    color: #606060;
+    position: absolute;
+    top: 1950px;
+    left: 650px; 
+}
+
+.ht10{
+    color: #606060;
+    position: absolute;
+    top: 1970px;
+    left: 650px; 
+}
+
+.ht11{
+    color: #606060;
+    position: absolute;
+    top: 1990px;
+    left: 650px; 
+}
+
+
+.ht12{
+    color: #606060;
+    position: absolute;
+    top: 2010px;
+    left: 650px; 
+}
+
+.lh h2{
+    font-size: larger;
+    color:orange;
+    position: absolute;
+    top: 1750px;
+    left: 1100px; 
+}
+
+
+.text {
+    font-size: larger;
+    color:white;
+    position: absolute;
+    top: 1790px;
+    left: 1100px; 
+}
+
+.lh1 input{
+    font-size: larger;
+    color:orangered;
+    position: absolute;
+    top: 1815px;
+    left: 1100px;
+    width: 400px;
+    height: 30px;
+    border: red 1px solid;
+}
+
+
+.text1{
+    font-size: larger;
+    color:white;
+    position: absolute;
+    top: 1870px;
+    left: 1100px;  
+}
+
+.msg textarea{
+    font-size: larger;
+    color:orangered;
+    position: absolute;
+    top: 1900px;
+    left: 1100px;
+    width: 400px;
+    height: 30px;
+    border: red 1px solid;
+}
+
+
+ .bt{
+    font-size: larger;
+    color:white;
+    position: absolute;
+    top: 1960px;
+    left: 1100px; 
+    
+ }
+
+ .bt button{
+     border-radius: 20px;
+     width: 150px;
+     height: 30px;
+     box-shadow: inset 0 0 8px orangered ;
+ }
+
+.lh iframe{
+    position: absolute;
+    top: 2040px;
+    left: 1100px; 
+}
+

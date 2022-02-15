@@ -1,0 +1,462 @@
+.ar article{
+    width: 100%;
+    height: 50px;
+    clear: both;
+    position: relative;
+}
+
+.ar article h2{
+    color: orange;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.ar article img{
+   float: left;
+   width: 250px;
+   height: 250px;
+   margin: 25px;
+}
+
+
+.tenart a{
+    position: absolute;
+    top: 326px;
+    left: 35px;
+    text-decoration: none;
+    font-size: 10px;
+    color: orange;
+}
+
+.giaart {
+    position: absolute;
+    top: 337px;
+    left: 40px;
+    color: red;
+}
+
+
+.giaart del{
+    color: grey;
+}
+
+
+.tenart1 a{
+    position: absolute;
+    top: 326px;
+    left: 325px;
+    text-decoration: none;
+    font-size: 10px;
+    color: orange;
+}
+
+.giaart1 {
+    position: absolute;
+    top: 337px;
+    left: 335px;
+    color: red;
+}
+
+.giaart1 del{
+    color: grey;
+}
+
+
+.tenart2 a{
+    position: absolute;
+    top: 326px;
+    left: 625px;
+    text-decoration: none;
+    font-size: 10px;
+    color: orange;
+}
+
+.giaart2 {
+    position: absolute;
+    top: 337px;
+    left: 640px;
+    color: red;
+}
+
+.giaart2 del{
+    color: grey;
+}
+
+
+
+.tenart3 a{
+    position: absolute;
+    top: 326px;
+    left: 931px;
+    text-decoration: none;
+    font-size: 10px;
+    color: orange;
+}
+
+.giaart3 {
+    position: absolute;
+    top: 337px;
+    left: 940px;
+    color: red;
+}
+
+.giaart3 del{
+    color: grey;
+}
+
+
+
+.tenart4 a{
+    position: absolute;
+    top: 326px;
+    left: 1230px;
+    text-decoration: none;
+    font-size: 10px;
+    color: orange;
+}
+
+.giaart4 {
+    position: absolute;
+    top: 337px;
+    left: 1235px;
+    color: red;
+}
+
+.giaart4 del{
+    color: grey;
+}
+
+article img:hover{
+    box-shadow: 0 0 10px orangered;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #080808;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+}
+
+.menu header{
+    width: 100%;
+    height: 50px;
+    background-color: #080808;
+    position: relative;
+}
+.menu header h1{
+    color: #FF8C00;
+    position: absolute;
+    left: 50px;
+    line-height: 10px;
+}
+
+.menu header h5{
+    color:#FF8C00;
+    position: absolute;
+    top: 0px;
+    left: 550px;
+}
+
+.menuh li {
+    float: right;
+    margin-right: 50px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.menuh li a{
+    color: #FF8C00;
+    text-decoration: none;
+}
+
+.menuh li a:hover{
+    color: orangered;
+}
+
+
+
+
+
+.menun nav{
+    width: 100%;
+    height: 150px;
+    background-color: #181818;
+    position: relative;
+}
+
+
+.menun nav input{
+    border: orangered solid 3px;
+    width: 500px;
+    height: 30px;
+    border-radius: 20px ;
+    position: absolute;
+    top: 30px;
+    left: 500px;
+}
+
+.menuna  li{
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+    display: inline-block;
+    height: 50px;
+}
+
+.menuna  li a{
+    text-decoration: none;
+    color: orange;
+    font-size: 25px;
+}
+
+.menuna li a:hover{
+    color: orangered;
+}   
+
+
+
+
+
+.menua article{
+    width: 100%;
+    height: 100px;
+    clear: both;
+   
+}
+
+.menua article img{
+    width: 100%;
+    min-height: 100px;
+    
+}
+
+
+
+.menuasi aside{
+    width: 100%;
+    height: 1400px;
+    position: relative;
+   
+}
+
+.menuasi aside h1{
+   color:orange;
+   position: absolute;
+    top: 550px;
+    left: 670px;
+}
+
+.menuasi aside  img{
+    float: left;
+    margin: 30px;
+    margin-top: 600px;
+    border: 1px solid black;
+    box-shadow: inset 0 5px 10px orangered;
+}
+
+.ten a{
+    font-size: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 35px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 1160px;
+    left: 38px;
+    letter-spacing: 3px;
+    color: red;
+
+}
+.gia del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten1 a{
+    font-size: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 346px;
+    text-decoration: none;
+    color: orange;
+}
+
+
+.gia1 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 1160px;
+    left: 353px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia1 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten2 a{
+    font-size: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 640px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia2 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 1160px;
+    left: 650px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia2 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.ten3 a{
+    font-size: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 945px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia3 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 1160px;
+    left: 955px;
+    letter-spacing: 3px;
+    color: red;
+}
+
+.gia3 del{
+    color: gray;
+    font-size: 17px;
+}
+
+.ten4 a{
+    font-size: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 1245px;
+    text-decoration: none;
+    color: orange;
+}
+
+.gia4 {
+    font-weight: bold;
+    font-size: 15px;
+    position: absolute;
+    top: 1160px;
+    left: 1253px;
+    letter-spacing: 3px;
+    color: red;
+
+}
+
+.gia4 del{
+    color: gray;
+    font-size: 17px;
+}
+
+
+.sanpham img:hover{
+    
+    box-shadow:  0 0 15px orangered;
+    font-size: 100px;
+}
+
+.sanpham2{
+    width: 100%;
+    height: 700px;
+}
+
+.sanpham2 div h1{
+    color: orange;
+    position: absolute;
+    right: 660px;
+    top: 1200px;
+    
+}
+
+.sanpham2 div img{
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin: 5px;
+    margin-top: 190px;
+    margin-left: 100px;
+
+}
+
+.tensp a{
+    color:orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 185px;
+}
+
+.tensp1 a{
+    color: orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 630px;
+}
+
+.tensp2 a{
+    color: orange;
+    text-decoration: none;
+    position: absolute;
+    top: 1370px;
+    left: 1100px;
+}
+
+.sanpham2 img:hover{
+
+    box-shadow: 0 0 10px orangered;
+
+}
